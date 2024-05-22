@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Manu947
+- 👀 I’m interested in web developer 
+- 🌱 I’m currently learning Html and css
