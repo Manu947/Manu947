@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Manu947
-- 👀 I’m interested in web developer 
-- 🌱 I’m currently learning Html and css
+- 👀 I’m interested in software developer and Arduino project 
+- 🌱 I’m currently learning Java 
